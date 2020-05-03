@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-description = 'Contains the text from the memorandum ',
+description = 'Contains the text from the memorandum '\
               'of the July 25, 2019 phone call'
 
 with open('README.md') as f:
