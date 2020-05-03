@@ -22,8 +22,8 @@ much better.
 
 ## Goal
 
-The goal here isn't to play partisan politics. The is to have this information
-in another, hopefully accessible, format.
+The goal here isn't to play partisan politics. The goal is to have this
+information in another, hopefully accessible, format.
 
 ## An Aside
 
