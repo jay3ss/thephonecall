@@ -20,6 +20,11 @@ The reason that I used OCR to pull the text from the PDF is that the text in
 the document didn't copy and paste very well and the results from the OCR were
 much better.
 
+## Goal
+
+The goal here isn't to play partisan politics. The is to have this information
+in another, hopefully accessible, format.
+
 ## An Aside
 
 You'll note that I use the word "memorandum" instead of "transcript." This is
@@ -56,6 +61,9 @@ discussion."
 
 - Python 3.8.0 (you can probably get away with using another version as long as
   it's 3.6+)
+
+### Development Requirements
+
 - Pillow
 - PyOCR
 - Tesseract OCR
