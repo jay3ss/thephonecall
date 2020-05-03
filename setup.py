@@ -6,7 +6,7 @@ description = ('Contains the text from the memorandum ',
 setup(
     name='The Phone Call',
     version='0.0.1',
-    description=desciption,
+    description=description,
     author='Jay Ess',
     include_package_data=True
 )
