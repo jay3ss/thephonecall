@@ -11,6 +11,7 @@ def text_as_dictionary():
     text = {
         'meta': {
             'classification': lines_filtered[0],
+            'declassified_by': lines_filtered[1],
             'published': lines_filtered[2],
             'title': lines_filtered[3],
             'subject': lines_filtered[4],
