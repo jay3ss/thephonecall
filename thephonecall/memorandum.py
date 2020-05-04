@@ -24,6 +24,6 @@ def text_as_dictionary():
             'derived_from': lines_filtered[17],
             'declassified_on': lines_filtered[18]
         },
-        'body': '\n'.join(lines[29:])
+        'body': '\n'.join(lines[28:])
     }
     return text
